@@ -1,5 +1,4 @@
-# ntcode12-_NumPy_Amsterdam_AirBnB
-Numpy and Numba Skills Refresh
+# Numpy and Numba Skills Refresh with Airbnb Amsterdam Data
 
 This project was an opportunity for me to refresh my skills in Numpy and Numba. The project involved the use of a dataset of Airbnb listings in Amsterdam, which I cleaned and transformed using Numpy.
 
